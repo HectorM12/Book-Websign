@@ -136,3 +136,12 @@ h1, h2{
     display: block;
 }
 */
+body{
+    background-color:gold;
+  }
+  h1 {
+    color:red;
+  }
+  h2 {
+    color:red;
+  }
